@@ -1,0 +1,5 @@
+aiogram>=3.0.0
+pandas>=2.0.0
+langchain-gigachat>=0.0.3
+apscheduler>=3.10.0
+python-dotenv>=1.0.0 
