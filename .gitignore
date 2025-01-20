@@ -13,4 +13,7 @@ env/
 .idea/
 
 # Project specific
-submissions/ 
+submissions/
+
+# Environment variables
+.env 
